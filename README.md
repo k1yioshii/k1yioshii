@@ -6,11 +6,11 @@
 - **Возраст:** 🤫
 - **Хобби:** Программирование
 - **Языки:** Русский, Украинский, Английский, Чешский, учу Испанский
-- **Языки программирования:** 
+- **Языки программирования:** <img src="/javascript.svg" alt="JS" width="24" height="24"> <img src="/c-sharp.svg" alt="C#" width="24" height="24"> <img src="/python.svg" alt="Python" width="24" height="24"> <img src="/java.svg" alt="Java" width="24" height="24">
 
 ## Мои интересы
 
-- **Пишу в:**
+- **Пишу в:** <img src="/idea.svg" alt="Intellij Idea" width="24" height="24"> <img src="/webstorm.svg" alt="WebStorm" width="24" height="24"> <img src="/pycharm.svg" alt="PyCharm" width="24" height="24"> <img src="/rider.svg" alt="Rider" width="24" height="24">
 - **Играю в:** CS2, osu!, DDNet, ETS2, DBD
 
 ## Ссылки
