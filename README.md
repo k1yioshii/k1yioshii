@@ -11,14 +11,13 @@
 ## Мои интересы
 
 - **Пишу в:** <img src="/idea.svg" alt="Intellij Idea" width="24" height="24"> <img src="/webstorm.svg" alt="WebStorm" width="24" height="24"> <img src="/pycharm.svg" alt="PyCharm" width="24" height="24"> <img src="/rider.svg" alt="Rider" width="24" height="24">
-- **Играю в:** CS2, osu!, DDNet, ETS2, DBD
+- **Играю в:** Valorant, osu!, R.E.P.O
 
 ## Ссылки
 
 - **osu! профиль:** [osu.ppy.sh/users/36468543](https://osu.ppy.sh/users/36468543)
-- **Instagram:** [instagram.com/k1yloshii](https://instagram.com/k1yloshii)
 - **TikTok:** [tiktok.com/@k1yloshii](https://tiktok.com/@k1yloshii)
-- **Discord:** k1yloshiii
+- **Discord:** k1yloshii
 - **Steam профиль:** [steamcommunity.com/id/k1yloshii](https://steamcommunity.com/id/k1yloshii)
 - **Steam trade URL:** [steamcommunity.com/tradeoffer/new/?partner=1537868370&token=tW657VF](https://steamcommunity.com/tradeoffer/new/?partner=1537868370&token=tW657VF)
 - **GitHub:** [github.com/k1yloshii](https://github.com/k1yloshii)
