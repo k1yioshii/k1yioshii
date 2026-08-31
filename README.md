@@ -1,31 +1,25 @@
-# Привет, меня зовут Макс! 👋
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=k1yioshii&theme=neon" alt="k1yioshii profile hero" />
+</p>
 
-## Обо мне
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/about?username=k1yioshii&theme=neon" alt="About k1yioshii" />
+</p>
 
-- **Имя:** Макс
-- **Возраст:** 🤫
-- **Хобби:** Программирование
-- **Языки:** Русский, Украинский, Английский, Чешский, учу Испанский
-- **Языки программирования:** <img src="/javascript.svg" alt="JS" width="24" height="24"> <img src="/c-sharp.svg" alt="C#" width="24" height="24"> <img src="/python.svg" alt="Python" width="24" height="24"> <img src="/java.svg" alt="Java" width="24" height="24">
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stack?username=k1yioshii&theme=neon" alt="Language stack" />
+</p>
 
-## Мои интересы
+## 📊 GitHub Stats
 
-- **Пишу в:** <img src="/idea.svg" alt="Intellij Idea" width="24" height="24"> <img src="/webstorm.svg" alt="WebStorm" width="24" height="24"> <img src="/pycharm.svg" alt="PyCharm" width="24" height="24"> <img src="/rider.svg" alt="Rider" width="24" height="24">
-- **Играю в:** Valorant, osu!, R.E.P.O
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stats?username=k1yioshii&theme=neon" alt="GitHub Stats" />
+</p>
 
-## Ссылки
+## 🤝 Connect With Me
 
-- **osu! профиль:** [osu.ppy.sh/users/36468543](https://osu.ppy.sh/users/36468543)
-- **TikTok:** [tiktok.com/@k1yloshii](https://tiktok.com/@k1yloshii)
-- **Discord:** k1yloshii
-- **Steam профиль:** [steamcommunity.com/id/k1yloshii](https://steamcommunity.com/id/k1yloshii)
-- **Steam trade URL:** [steamcommunity.com/tradeoffer/new/?partner=1537868370&token=tW657VF](https://steamcommunity.com/tradeoffer/new/?partner=1537868370&token=tW657VF)
-- **GitHub:** [github.com/k1yloshii](https://github.com/k1yloshii)
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=k1yioshii&theme=neon" alt="k1yioshii social links" />
+</p>
 
-## TODO
-
-- **Выучить:** <img src="/cpp.svg" alt="C++" width="24" height="24">
-
----
-
-Если у вас есть вопросы или предложения, не стесняйтесь связаться со мной через Discord или другие платформы!
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/k1yioshii)
